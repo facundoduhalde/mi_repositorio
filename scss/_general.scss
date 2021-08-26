@@ -1,0 +1,39 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+body {
+	font-family: 'Bellota Text', cursive;
+	line-height: 1.6;
+	background-image: url("../img/background.png");
+	background-repeat: repeat;
+}
+h1 {
+	font-weight: 300;
+	line-height: 1.2;
+	margin: 50px 0;
+	text-align: center;
+}
+h2 {
+	font-weight: 300;
+	line-height: 1.2;
+	margin: 10px 0;
+}
+p {
+	line-height: 2;
+	font-weight: bolder;
+	font-size: 16px;
+}
+ul {
+	line-height: 1.2;
+	font-weight: bolder;
+	font-size: 16px;
+}
+li{
+    list-style: none;
+}
+.contenedor {
+	max-width: 1000px;
+	width: 100%;
+	margin: 0px auto;
+}
